@@ -2,4 +2,4 @@
 
 ## Cliento
 
-Cliento - Client management made easy.
+Client management made easy. Cliento is your one-step solution for managing your clients.
